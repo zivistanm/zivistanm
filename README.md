@@ -5,7 +5,7 @@
 
 👨‍💻 Frontend Developer | 🌐 Passionate about crafting intuitive and responsive user interfaces
 
-## My Skills Include
+## Mis Habilidades incluyen
 
 <h4> Languajes </h4>
 <span> 
