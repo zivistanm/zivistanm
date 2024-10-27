@@ -46,8 +46,11 @@
 <span>
   <a href="https://www.instagram.com/zivistanm/?hl=es">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+  </a>
   <a href="https://www.twitch.tv/zivistan22">
     <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white">
+  </a>
   <a href="https://www.youtube.com/@zivistan2001">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
+  </a>
 </span>
