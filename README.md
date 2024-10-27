@@ -10,7 +10,7 @@
 JavaScript ❤️
 
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>  Mis Habilidades incluyen 
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>  Mis Habilidades incluyen 
 
 <h4> Languajes </h4>
 <span> 
