@@ -3,18 +3,13 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%cyan&size&size=25&center=true&vCenter=true&width=600&height=100&lines=BIENVENIDO+A+MI+GITHUB!;"></a>
 </p>
 
-👨‍💻 Desarrollador Frontend | 🌐 Apasionado por crear interfaces de usuario intuitivas y responsivas 
+👨‍💻 Desarrollador Frontend | 🌐 Apasionado por crear interfaces de usuario intuitivas y responsivas  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 JavaScript ❤️
 
-##
-
-
-
-
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>  Mis Habilidades incluyen 
+## ***Mis Habilidades incluyen*** 
 
 <h4> Languajes </h4>
 <span> 
